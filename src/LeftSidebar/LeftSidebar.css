@@ -2,4 +2,28 @@
     background-color: #3d3d3d;
     color: #fff;
     border-right: orangered; 
+    padding: 50px 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.left-sidebar a {
+    text-transform: uppercase;
+    font-size: 19px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    display: inline-block;
+    width: 100%;
+    padding: 0 0 15px;
+    text-decoration: none;
+
+    transition: color 0.25s ease-in-out;
+}
+.left-sidebar a:last-child {
+    padding-bottom: 0;
+}
+.left-sidebar a:hover {
+    color: orange;
 }
