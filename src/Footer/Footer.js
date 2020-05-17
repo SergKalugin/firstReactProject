@@ -4,10 +4,10 @@ import './Footer'
 // компонента футер
 const Footer = () => {
     return(
-      <footer>
+      <footer className='footer'>
         <div className='container'>
           <div className='footer-logo'>
-            <a href='#s'><img src='logo.svg' /></a>
+            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/1024px-Volkswagen_logo_2019.svg.png' />
           </div>
           <ul className='nav'>
             <li><a href='#'>Home</a></li>

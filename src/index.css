@@ -11,16 +11,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-#root ,
+/* #root ,
 .wrapper {
   height: 100%;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+} */

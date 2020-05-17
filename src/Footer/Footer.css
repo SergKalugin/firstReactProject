@@ -16,3 +16,11 @@
     justify-content: center;
     align-items: center;
 }
+.footer-logo {
+    display: block;
+    max-width: 80px;
+}
+.footer-logo  img {
+    display: block; 
+    max-width: 100%;
+}
