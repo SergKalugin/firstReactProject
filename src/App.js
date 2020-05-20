@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
 
-import Header from './Header/Header.jsx';
-import Footer from './Footer/Footer.jsx';
+import Header from './Header/Header';
+import Footer from './Footer/Footer';
 
-import LeftSidebar from './LeftSidebar/LeftSidebar.jsx';
-import MainContant from './MainContent/MainContant.jsx';
+import LeftSidebar from './LeftSidebar/LeftSidebar';
+import MainContant from './MainContent/MainContant';
 
 const App = () => {
   return ( 
